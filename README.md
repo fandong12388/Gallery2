@@ -5,4 +5,4 @@
 ####第三步、Settings -->Build,Execution,Deployment -->Instant Run -->去掉Enable Instant Run...前面的小勾
 ####第四步、运行
 ##运行效果
-![](https://github.com/fandong12388/Gallery2/raw/master/screenshot/1.jpg)
+![](https://github.com/fandong12388/Gallery2/raw/master/screenshot/2.jpg)
